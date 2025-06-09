@@ -21,6 +21,8 @@ I developed this app because I was annoyed of me always forgetting my devices SK
 ## 📸 Screenshots
 ![Screenshot](https://github.com/user-attachments/assets/eb68f4a5-d670-40d1-b591-c23cc4d96407)
 
+## 📥 Download
+You can download the latest APK from the [Releases](https://github.com/blurrycmd/Specs/releases).
 
 ---
 This is my first Flutter app, and I am still learning. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
