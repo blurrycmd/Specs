@@ -8,7 +8,7 @@
 #### 📲 Easily view essential Android device specs. All the details, right at a glance.
 
 ## ❓About
-Specs is an Android App developed with Flutter that allows users and developers to view detailed specifications of your Android device.
+Specs is an Android App developed with Flutter that allows users and developers to view detailed specifications of their Android device.
 
 I developed this app because I was annoyed of me always forgetting my devices SKD/API level and had to search it up all the time. This inspired me to create "Specs".
 
