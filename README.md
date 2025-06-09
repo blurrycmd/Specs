@@ -1,6 +1,9 @@
-# Specs 🔧
-
-![ic_launcher](https://github.com/user-attachments/assets/4ed218de-3028-4dcb-ae80-a9795236d9de)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4ed218de-3028-4dcb-ae80-a9795236d9de" alt="ic_launcher" width="100">
+</div>
+<div align="center">
+<h1>Specs 🔧</h1>
+</div>
 
 #### 📲 Easily view essential Android device specs. All the details, right at a glance.
 
