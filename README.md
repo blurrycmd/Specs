@@ -25,4 +25,4 @@ I developed this app because I was annoyed of me always forgetting my devices SK
 ---
 This is my first Flutter app, and I am still learning. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
-Don't judge my code.
+Don't judge my code. I created this app in under 24 hours.
