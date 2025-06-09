@@ -3,7 +3,6 @@
 
 #### 📲 Easily view essential Android device specs. All the details, right at a glance.
 
----
 
 ## ❓About
 Specs is an Android App developed with Flutter that allows users and developers to view detailed specifications of your Android device.
