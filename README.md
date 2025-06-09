@@ -1,8 +1,8 @@
 # Specs 🔧
-<!-- ![Specs Logo](placeholder.png) -->
+
+![ic_launcher](https://github.com/user-attachments/assets/4ed218de-3028-4dcb-ae80-a9795236d9de)
 
 #### 📲 Easily view essential Android device specs. All the details, right at a glance.
-
 
 ## ❓About
 Specs is an Android App developed with Flutter that allows users and developers to view detailed specifications of your Android device.
@@ -16,7 +16,8 @@ I developed this app because I was annoyed of me always forgetting my devices SK
 - Follows Material 3 design principles
 
 ## 📸 Screenshots
-<!-- ![Screenshot](screenshot.png) -->
+![Screenshot](https://github.com/user-attachments/assets/eb68f4a5-d670-40d1-b591-c23cc4d96407)
+
 
 ---
 This is my first Flutter app, and I am still learning. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
