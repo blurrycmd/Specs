@@ -10,7 +10,6 @@ import 'package:flutter/services.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await FlutterDisplayMode.setHighRefreshRate();
-
   runApp(const SpecsApp());
 }
 
@@ -40,7 +39,6 @@ class SpecsApp extends StatelessWidget {
         return MaterialApp(
           title: 'Specs',
           theme: ThemeData(
-            useMaterial3: true,
             colorScheme: lightColorScheme,
             pageTransitionsTheme: const PageTransitionsTheme(
               builders: <TargetPlatform, PageTransitionsBuilder>{
@@ -49,7 +47,6 @@ class SpecsApp extends StatelessWidget {
             ),
           ),
           darkTheme: ThemeData(
-            useMaterial3: true,
             colorScheme: darkColorScheme,
           ),
           themeMode: ThemeMode.system,
